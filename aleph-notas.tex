@@ -178,6 +178,15 @@ También se pueden generar más ambientes de teoremas, con otros formatos y colo
 
 \subsection{Problemas}
 
+\begin{itemize}
+\item 
+    La versión actual trabaja bien en la versión de TeXLive 2019 en adelante (específicamente, con el paquete \package{tcolorcox} v4.20). Si se usa una versión anterior, existe una incompatibilidad con la actualización del paquete. Para utilizar versiones anteriores de ese paquete, es necesario cambiar:
+    \begin{itemize}
+        \item |tcbcolback| por |tcbcol@back|
+        \item |tcbcolframe| por |tcbcol@frame|
+    \end{itemize}
+\end{itemize}
+
 Cualquier problema adicional, por favor reportarlo a\\ 
 \url{mat.andresmerino@gmail.com}.
 
