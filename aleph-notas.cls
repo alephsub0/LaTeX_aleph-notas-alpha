@@ -359,9 +359,9 @@
     sharp corners,rounded corners=southeast,arc is angular,arc=3mm,
     parbox=false,
     underlay unbroken and last = {%
-        \path[fill=tcbcol@back!80!black]
+        \path[fill=tcbcolback!80!black]
         ([yshift=3mm]interior.south east) --++ (-0.4,-0.1) --++ (0.1,-0.2);
-        \path[draw=tcbcol@frame,shorten <=-0.05mm,shorten >=-0.05mm]
+        \path[draw=tcbcolframe,shorten <=-0.05mm,shorten >=-0.05mm]
         ([yshift=3mm]interior.south east) --++ (-0.4,-0.1) --++ (0.1,-0.2);
         \path[fill=\tcb@@color!50!black,draw=none]
         (interior.south west) rectangle node[white]{\tcb@@icono} ([xshift=5.5mm]interior.north west);
