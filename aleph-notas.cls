@@ -15,7 +15,7 @@
 %% consultar la documentación.
 %% 
 \NeedsTeXFormat{LaTeX2e}[2009/09/24]
-\ProvidesClass{aleph-notas}[2020/01/07 v1.0]
+\ProvidesClass{aleph-notas}[2020/08/14 v1.1]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% --- Inicialización
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -50,9 +50,9 @@
 \DeclareOption{fnuevo}{\renewcommand\@tipo{fnuevo}}
 %%  Opción para desplegar comentarios
 \DeclareOption{comentarios}{\setboolean{comentarios}{true}}
-%%  Opción para desplegar codigos
+%%  Opción para desplegar códigos
 \DeclareOption{codigo}{\setboolean{codigo}{true}}
-%%  Opciones predeterminadas son |compacto|, |guia| y |10pt|.
+%%  Opciones predeterminadas son |compacto|, |fclasico| y |10pt|.
 \ExecuteOptions{compacto,fclasico,10pt}
 \ProcessOptions\relax
 \LoadClass{article}
