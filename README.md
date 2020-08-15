@@ -1,6 +1,6 @@
 ## aleph-notas 1.1
 
-Esta clase fue creada para dar formato a notas y resúmenes, encaminadas a ser libros bajo la clase |aleph-libro.cls|. Esta clase genera el encabezado, los ambientes utilizados, entre otros. Esta clase fue generada dentro del proyecto Alephsub0 (url{https://www.alephsub0.org/)
+Esta clase fue creada para dar formato a notas y resúmenes, encaminadas a ser libros bajo la clase |aleph-libro.cls|. Esta clase genera el encabezado, los ambientes utilizados, entre otros. Esta clase fue generada dentro del proyecto Alephsub0 (https://www.alephsub0.org/)
 
 ### Últimos cambios
 
