@@ -2,7 +2,7 @@
 
 Esta clase fue creada para dar formato a notas y resúmenes, encaminadas a ser libros bajo la clase |aleph-libro.cls|. Esta clase genera el encabezado, los ambientes utilizados, entre otros. Esta clase fue generada dentro del proyecto Alephsub0 (https://www.alephsub0.org/)
 
-Para visualizar un ejemplo puedes acceder al repositorio de GitHub de este paquete (clic [aquí](https://github.com/mate-andres/LaTeX_aleph-notas)) o buscarlo en la galería de plantilla de Overleaf (clic [aquí](https://www.overleaf.com/latex/templates/plantilla-para-escribir-resumenes-de-clase/mftfvjfhdcyj)).
+Para visualizar un ejemplo puedes acceder al repositorio de GitHub de esta clase (clic [aquí](https://github.com/mate-andres/LaTeX_aleph-notas)) o buscarlo en la galería de plantilla de Overleaf (clic [aquí](https://www.overleaf.com/latex/templates/plantilla-para-escribir-resumenes-de-clase/mftfvjfhdcyj)).
 
 ### Últimos cambios
 
