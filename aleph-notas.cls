@@ -59,7 +59,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% --- Paquetes
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%  Son necesarios los siguientes paquetes para dar formato al documento.
+%%  Son necesarios los siguientes paquetes para dar 
+
+al documento.
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[T1]{fontenc}
 \RequirePackage[\@idioma]{babel}
@@ -228,6 +230,10 @@
 \titleformat{\subsection}
     {\color{colortext}\normalsize\bfseries}
     {\thesubsection}{1em}{}
+%%  Estilo de subsubsecciones
+\titleformat{\subsubsection}
+    {\color{colortext}\normalsize\bfseries}
+    {\thesubsubsection}{1em}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% --- Estilo teoremas
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
