@@ -226,6 +226,13 @@ al documento.
     {\color{colortext}\large\titlerule\vspace{.05ex}
     \thesection.\ }
     [\color{colortext}\vspace{.2ex}\titlerule]
+%%  Estilo de secciones no numeradas
+\titleformat{name=\section,numberless}[display]
+  {\vspace*{-2mm}\bfseries\scshape\centering}
+    {}{1ex}
+    {\color{colortext}\large\titlerule\vspace{.05ex}
+     }
+    [\color{colortext}\vspace{.2ex}\titlerule]
 %%  Estilo subsecciones
 \titleformat{\subsection}
     {\color{colortext}\normalsize\bfseries}
