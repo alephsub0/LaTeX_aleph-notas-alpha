@@ -2,7 +2,7 @@
 
 Esta clase fue creada para dar formato a notas y resúmenes, encaminadas a ser libros bajo la clase |aleph-libro.cls|. Esta clase genera el encabezado, los ambientes utilizados, entre otros. Esta clase fue generada dentro del proyecto Alephsub0 (https://www.alephsub0.org/)
 
-### Historial de cambios
+### Cambios en pruebas
 
 ```
 1.1-alpha+001  2021-05-01
