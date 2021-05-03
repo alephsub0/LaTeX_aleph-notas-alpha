@@ -1,13 +1,7 @@
+%% Esta clase corresponde a una versión alpha de la clase original. 
 %%
-%% This is file `aleph-notas.cls',
-%% generated with the docstrip utility.
-%%
-%% The original source files were:
-%%
-%% aleph-notas.dtx  (with options: `aleph-notas')
-%% 
-%% This is a generated file.
-%% LaTeX class for typesetting notes
+%% En esta versión se incluyó: 
+%%     - Soporte para sub sub secciones y estilos de sección no numerados. 2021-05-01
 %% 
 %% Copyright (C) 2020 by Andres Merino <mat.andresmerino@gmail.com>
 %% 
